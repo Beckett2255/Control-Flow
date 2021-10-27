@@ -13,7 +13,7 @@ print("Welcome to Cash-R-Us Bank\nLet's take a moment to set up your account.\n"
 first_name = input("What is your first name: ")
 last_name = input("What is your last name: ")
 
-print("\nWelcome to Cash-R-Us",first_name,last_name +",we will set up a escurity PIN on your account.\n")
+print("\nWelcome to Cash-R-Us",first_name,last_name +", we will now set up a escurity PIN on your account.\n")
 
 # set up a PIN - Personal Identification Number
 pin = input("Please choose a 4-digit Personal Identifiaction Number: ")
