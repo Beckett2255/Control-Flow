@@ -47,6 +47,8 @@ if atm == "yes":
             balance = balance + depositAmount
             print("Your new balance is: $" + str(balance))
 
+        else:
+            print("Your current balance is: $" + str(balance))
 
 
     else:
