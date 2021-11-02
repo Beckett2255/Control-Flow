@@ -33,7 +33,7 @@ if atm == "yes":
     userPIN = input("What is your four digit PIN: ")
 
     if pin == userPIN:
-        balance = 999999
+        balance = 999
         print("\nYour Balance: $" + str(balance))
 
         # Ask user what type of transaction they want - Withdrawal - Deposit
